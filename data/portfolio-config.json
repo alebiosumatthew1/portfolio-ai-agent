@@ -168,8 +168,10 @@
       "role": "creator",
       "achievements": [
         "Designed an automated workflow for processing coding requests",
+        "Accept a question or code snippet through a simple webhook entry point",
         "Integrated an LLM for code analysis and response generation",
-        "Structured AI responses for easier understanding and debugging"
+        "Structured AI responses for easier understanding and debugging",
+        "10+ min work → <1 min automated work"
       ],
       "links": []
     },
@@ -198,6 +200,8 @@
       "achievements": [
         "Automated lead qualification and data processing",
         "Designed AI logic for evaluating prospects",
+        "Collect prospect information from approved sources and inputs",
+        "Use AI agents to summarize context and apply qualification criteria",
         "Structured qualified lead information for easier sales follow-up"
       ],
       "links": []
@@ -226,8 +230,9 @@
       "role": "creator",
       "achievements": [
         "Automated the initial handling of customer inquiries",
-        "Used AI to classify and respond to customer requests",
-        "Designed the workflow to reduce repetitive manual support tasks"
+        "Used an LLM layer to classify and respond to customer requests",
+        "Designed the workflow to reduce repetitive manual support tasks",
+        "Return the answer through the chosen support channel for review or delivery"
       ],
       "links": []
     }
