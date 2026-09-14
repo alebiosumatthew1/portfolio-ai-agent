@@ -279,6 +279,11 @@
     ]
   },
 
+"resume": {
+    "url": "https://drive.google.com/file/d/1rvPICrXAeG36yKYSliYNLaVFQAFUUSRf/view?usp=drivesdk",
+    "lastUpdated": "2026-01-01",
+    "format": "pdf"
+
   "privacy": {
     "exposeEmail": false,
     "publicProfile": true,
