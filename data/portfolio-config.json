@@ -150,7 +150,7 @@
       "title": "AI Coding Assistant",
       "summary": "An AI-powered coding assistant that analyzes programming questions and code snippets, explains errors, and provides practical solutions.",
       "description": "Built an AI coding assistant that accepts programming questions or code snippets, processes them with an LLM, and returns structured explanations, debugging guidance, and suggested solutions.",
-      "status": "completed and active",
+      "status": "completed",
       "featured": true,
       "categories": [
         "AI",
@@ -180,7 +180,7 @@
       "title": "AI Lead Generation Agent",
       "summary": "An AI-powered lead generation workflow that researches prospects, qualifies leads, and organizes useful business information.",
       "description": "Built an AI lead generation workflow that processes prospect information, evaluates leads against defined criteria, extracts relevant business details, and organizes qualified prospects for follow-up.",
-      "status": "completed and active",
+      "status": "completed",
       "featured": true,
       "categories": [
         "AI",
@@ -211,7 +211,7 @@
       "title": "AI Customer Support Assistant",
       "summary": "An AI-powered customer support workflow that understands customer questions and generates helpful responses.",
       "description": "Built an automated customer support workflow that receives customer questions, uses AI to understand the request, generates an appropriate response, and organizes the interaction for follow-up.",
-      "status": "completed and active",
+      "status": "completed",
       "featured": true,
       "categories": [
         "AI",
