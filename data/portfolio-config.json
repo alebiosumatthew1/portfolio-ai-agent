@@ -25,9 +25,10 @@
   },
 
   "socials": {
-    "linkedin": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362",
-    "github": "https://github.com/alebiosumatthew1"
-  },
+  "linkedin": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362",
+  "github": "https://github.com/alebiosumatthew1",
+  "website": "https://matthewalebiosu.vercel.app"
+  }
 
   "contacts": [
     {
