@@ -28,7 +28,7 @@
   "linkedin": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362",
   "github": "https://github.com/alebiosumatthew1",
   "website": "https://matthewalebiosu.vercel.app"
-  }
+  },
 
   "contacts": [
     {
@@ -288,6 +288,8 @@
     "url": "https://drive.google.com/file/d/1rvPICrXAeG36yKYSliYNLaVFQAFUUSRf/view?usp=drivesdk",
     "lastUpdated": "2026-01-01",
     "format": "pdf"
+    ]
+  },
 
   "privacy": {
     "exposeEmail": false,
