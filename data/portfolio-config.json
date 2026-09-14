@@ -33,15 +33,15 @@
 
   "contacts": [
     {
-      "name": "Email",
+      "name": "alebiosumattew66@gmail.com",
       "url": "mailto:alebiosumattew66@gmail.com"
     },
     {
-      "name": "LinkedIn",
+      "name": "Alebiosu Matthew",
       "url": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362"
     },
     {
-      "name": "GitHub",
+      "name": "Alebiosu Matthew",
       "url": "https://github.com/alebiosumatthew1"
     }
   ],
@@ -62,12 +62,12 @@
   "education": [
     {
       "id": "education-1",
-      "institution": "YOUR SCHOOL / UNIVERSITY",
-      "degree": "YOUR PROGRAM / DEGREE",
-      "field": "YOUR FIELD OF STUDY",
-      "start": "",
-      "end": "",
-      "grade": "",
+      "institution": "University of Lagos",
+      "degree": "computer science",
+      "field": "Machine Learning",
+      "start": "2015",
+      "end": "2019",
+      "grade": "CGPA 4.50",
       "highlights": [
         "Developing technical and problem-solving skills",
         "Building practical AI automation projects alongside academic studies"
