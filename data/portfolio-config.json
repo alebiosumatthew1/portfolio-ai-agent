@@ -2,200 +2,335 @@
   "meta": {
     "version": "1.0.0",
     "appId": "portfolio-app",
-    "generatedAt": "2025-09-24T12:00:00Z",
-    "author": "John Doe",
-    "changelog": "Initial config with role, certifications, and languages"
+    "generatedAt": "2026-09-14T12:00:00Z",
+    "author": "Matthew Alebiosu",
+    "changelog": "Professional AI Automation & n8n Specialist portfolio configuration"
   },
+
   "personal": {
     "id": "Matthew-Alebiosu",
     "name": "Matthew Alebiosu",
-    "title": "AI Automation Specialist",
-    "bio": "Passionate AI Automation Specialist with 8+ years of experience building intelligent workflows using n8n, AI agents, APIs, and business tools to eliminate repetitive tasks and streamline operations..",
-    "email": "john.doe@example.com",
-    "handle": "johndoe",
-    "location": "Africa, lagos",
-    "yearOfBirth": 1990,
+    "title": "AI Automation & n8n Specialist",
+    "bio": "AI Automation & n8n Specialist focused on building intelligent workflows, AI agents, API integrations, and business automations that eliminate repetitive tasks and improve operational efficiency.",
+    "email": "alebiosumattew66@gmail.com",
+    "handle": "matthewalebiosu",
+    "location": "Lagos, Nigeria",
+    "yearOfBirth": 2000,
     "pronouns": "he/him",
     "avatar": {
-      "src": "/avatar.png",
-      "fallback": "/avatar-fallback.png"
+      "src": "",
+      "fallback": "MA"
     },
-    "timezone": "Afica/Lagos"
+    "timezone": "Africa/Lagos"
   },
+
   "socials": {
     "linkedin": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362",
-    "github": "https://github.com/johndoe",
-    "twitter": "https://twitter.com/johndoe",
-    "website": "https://johndoe.dev"
+    "github": "https://github.com/alebiosumatthew1",
+    "twitter": "",
+    "website": ""
   },
+
   "contacts": [
-    { "name": "Email", "url": "mailto:john.doe@example.com" },
-    { "name": "LinkedIn", "url": "https://linkedin.com/in/johndoe" },
-    { "name": "GitHub", "url": "https://github.com/johndoe" }
+    {
+      "name": "Email",
+      "url": "mailto:alebiosumattew66@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/alebiosumatthew1"
+    }
   ],
+
   "languages": [
     {
       "id": "en",
       "name": "English",
-      "level": "Native",
-      "certified": false
-    },
-    {
-      "id": "de",
-      "name": "German",
       "level": "Fluent",
-      "certified": true,
-      "certificate": "https://goethe.de/certificate"
+      "certified": false
     }
   ],
-  "certifications": [
-    {
-      "id": "aws-cp",
-      "name": "AWS Certified Cloud Practitioner",
-      "issuer": "Amazon Web Services",
-      "date": "2023-05-12",
-      "credentialId": "ABC123XYZ",
-      "url": "https://aws.amazon.com/certification/verify",
-      "score": "950/1000"
-    },
-    {
-      "id": "k8s-admin",
-      "name": "Certified Kubernetes Administrator",
-      "issuer": "CNCF",
-      "date": "2024-01-20"
-    }
-  ],
-  "summary": "Seasoned engineer specializing in cloud-native systems, microservices, and team leadership.",
+
+  "certifications": [],
+
+  "summary": "AI Automation & n8n Specialist focused on designing practical AI-powered workflows, intelligent agents, API integrations, lead-generation systems, customer support automations, and business process solutions that reduce repetitive work and improve operational efficiency.",
+
   "education": [
     {
-      "id": "uni-berlin",
-      "institution": "TU Berlin",
-      "degree": "MSc",
-      "field": "Computer Science",
-      "start": "2012-09-01",
-      "end": "2014-07-01",
-      "grade": "1.5",
+      "id": "education-1",
+      "institution": "YOUR SCHOOL / UNIVERSITY",
+      "degree": "YOUR PROGRAM / DEGREE",
+      "field": "YOUR FIELD OF STUDY",
+      "start": "",
+      "end": "",
+      "grade": "",
       "highlights": [
-        "Thesis on distributed systems",
-        "Teaching assistant in Algorithms"
+        "Developing technical and problem-solving skills",
+        "Building practical AI automation projects alongside academic studies"
       ],
-      "isCurrent": false
+      "isCurrent": true
     }
   ],
+
   "experience": [
     {
-      "id": "exp-1",
-      "company": "Acme Corp",
-      "position": "Senior Full Stack Engineer",
-      "type": "full-time",
-      "start": "2020-01-01",
-      "description": "Led a team of 6 engineers to build scalable SaaS solutions.",
-      "responsibilities": ["Architecture", "Mentorship", "Feature development"],
-      "technologies": ["React", "Node.js", "AWS", "PostgreSQL"],
-      "achievements": [
-        "Reduced system downtime by 30%",
-        "Launched new product lines"
+      "id": "experience-1",
+      "company": "Independent AI Automation Projects",
+      "position": "AI Automation & n8n Specialist",
+      "type": "project-based",
+      "start": "2026-01-01",
+      "end": "",
+      "description": "Building practical AI automation and workflow projects focused on AI agents, lead generation, customer support, coding assistance, API integrations, data processing, and business process automation.",
+      "responsibilities": [
+        "Designing and developing automated workflows",
+        "Integrating AI models and external APIs",
+        "Building and testing n8n workflows",
+        "Structuring and processing business data",
+        "Creating AI-powered workflow logic",
+        "Documenting automation workflows and project outcomes"
       ],
-      "location": "Berlin, Germany",
+      "technologies": [
+        "n8n",
+        "AI Agents",
+        "LLMs",
+        "REST APIs",
+        "Webhooks",
+        "HTTP Requests",
+        "JSON",
+        "Google Sheets",
+        "GitHub"
+      ],
+      "achievements": [
+        "Developed multiple practical AI automation projects",
+        "Created reusable workflow patterns for business automation",
+        "Built AI-powered systems for lead generation, customer support, and coding assistance",
+        "Focused on converting repetitive manual processes into automated workflows"
+      ],
+      "location": "Lagos, Nigeria",
       "remote": true
-    },
-    {
-      "id": "exp-2",
-      "company": "TechFlow",
-      "position": "Frontend Developer",
-      "type": "full-time",
-      "start": "2016-03-01",
-      "end": "2019-12-01",
-      "responsibilities": ["UI development", "Accessibility improvements"],
-      "technologies": ["Vue.js", "TypeScript"],
-      "achievements": ["Introduced design system used across company"]
     }
   ],
+
   "skills": [
     {
-      "id": "frontend",
-      "name": "Frontend",
-      "items": ["React", "Next.js", "Vue.js"],
-      "endorsementCount": 10
-    },
-    {
-      "id": "backend",
-      "name": "Backend",
-      "items": ["Node.js", "GraphQL", "PostgreSQL"]
-    },
-    {
-      "id": "devops",
-      "name": "DevOps",
-      "items": ["AWS", "Kubernetes", "Terraform"]
-    }
-  ],
-  "projects": [
-    {
-      "id": "proj-1",
-      "title": "SaaS Analytics Dashboard",
-      "summary": "A multi-tenant dashboard providing insights on user behavior.",
-      "description": "Designed and implemented full-stack SaaS analytics platform.",
-      "status": "active",
-      "featured": true,
-      "categories": ["SaaS", "Analytics"],
-      "tech": ["Next.js", "GraphQL", "AWS"],
-      "role": "creator",
-      "metrics": ["5k+ active users", "99.9% uptime"],
-      "achievements": ["Launched MVP in 3 months"],
-      "links": [
-        { "name": "GitHub", "url": "https://github.com/johndoe/saas-dashboard" }
+      "id": "automation",
+      "name": "Automation",
+      "items": [
+        "n8n",
+        "Make",
+        "Webhooks",
+        "Workflow Design",
+        "Workflow Automation"
       ]
     },
     {
-      "id": "proj-2",
-      "title": "Open Source UI Library",
-      "summary": "Component library adopted by 20+ startups.",
-      "status": "completed",
-      "featured": false,
-      "categories": ["Open Source", "UI"],
-      "tech": ["React", "TypeScript", "Storybook"],
-      "role": "contributor",
-      "achievements": ["200+ GitHub stars"],
-      "links": [{ "name": "NPM", "url": "https://npmjs.com/package/ui-lib" }]
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        "AI Agents",
+        "Prompt Engineering",
+        "Text Classification",
+        "Summarization",
+        "LLM Integrations",
+        "AI Workflow Design"
+      ]
+    },
+    {
+      "id": "technical",
+      "name": "Technical",
+      "items": [
+        "REST APIs",
+        "HTTP Requests",
+        "JSON",
+        "API Integrations",
+        "Webhooks",
+        "Git & GitHub"
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business Automation",
+      "items": [
+        "Lead Management",
+        "Lead Qualification",
+        "Email Automation",
+        "Data Processing",
+        "Customer Support Automation",
+        "Notifications"
+      ]
     }
   ],
+
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "AI Coding Assistant",
+      "summary": "An AI-powered coding assistant that analyzes programming questions and code snippets, explains errors, and provides practical solutions.",
+      "description": "Built an AI coding assistant that accepts programming questions or code snippets, processes them with an LLM, and returns structured explanations, debugging guidance, and suggested solutions.",
+      "status": "completed",
+      "featured": true,
+      "categories": [
+        "AI",
+        "Automation",
+        "Developer Tools"
+      ],
+      "tech": [
+        "n8n",
+        "AI",
+        "LLM",
+        "Webhooks",
+        "REST API",
+        "JSON"
+      ],
+      "role": "AI Automation Developer",
+      "achievements": [
+        "Designed an automated workflow for processing coding requests",
+        "Integrated an LLM for code analysis and response generation",
+        "Structured AI responses for easier understanding and debugging"
+      ],
+      "links": []
+    },
+
+    {
+      "id": "project-2",
+      "title": "AI Lead Generation Agent",
+      "summary": "An AI-powered lead generation workflow that researches prospects, qualifies leads, and organizes useful business information.",
+      "description": "Built an AI lead generation workflow that processes prospect information, evaluates leads against defined criteria, extracts relevant business details, and organizes qualified prospects for follow-up.",
+      "status": "completed",
+      "featured": true,
+      "categories": [
+        "AI",
+        "Automation",
+        "Lead Generation",
+        "Business Process"
+      ],
+      "tech": [
+        "n8n",
+        "AI Agents",
+        "Webhooks",
+        "REST API",
+        "Google Sheets",
+        "JSON"
+      ],
+      "role": "AI Automation Developer",
+      "achievements": [
+        "Automated lead qualification and data processing",
+        "Designed AI logic for evaluating prospects",
+        "Structured qualified lead information for easier sales follow-up"
+      ],
+      "links": []
+    },
+
+    {
+      "id": "project-3",
+      "title": "AI Customer Support Assistant",
+      "summary": "An AI-powered customer support workflow that understands customer questions and generates helpful responses.",
+      "description": "Built an automated customer support workflow that receives customer questions, uses AI to understand the request, generates an appropriate response, and organizes the interaction for follow-up.",
+      "status": "completed",
+      "featured": true,
+      "categories": [
+        "AI",
+        "Automation",
+        "Customer Support",
+        "Business Process"
+      ],
+      "tech": [
+        "n8n",
+        "AI Agents",
+        "LLM",
+        "Webhooks",
+        "REST API",
+        "JSON"
+      ],
+      "role": "AI Automation Developer",
+      "achievements": [
+        "Automated the initial handling of customer inquiries",
+        "Used AI to classify and respond to customer requests",
+        "Designed the workflow to reduce repetitive manual support tasks"
+      ],
+      "links": []
+    }
+  ],
+
   "jobInterest": {
     "seeking": true,
-    "type": "full-time",
-    "preferredLocations": ["Remote", "Berlin"],
-    "focusAreas": ["Full Stack Engineering", "DevOps"],
+    "type": "freelance-and-full-time",
+    "preferredLocations": [
+      "Lagos",
+      "Nigeria",
+      "Remote",
+      "International"
+    ],
+    "focusAreas": [
+      "AI Automation",
+      "n8n Automation",
+      "AI Agents",
+      "Workflow Automation",
+      "Lead Generation Automation",
+      "Customer Support Automation",
+      "API Integration",
+      "Business Process Automation"
+    ],
     "availability": "Immediate",
-    "remoteOnly": true
+    "remoteOnly": false
   },
+
   "personality": {
-    "tone": "friendly",
-    "traits": ["proactive", "detail-oriented"],
-    "interests": ["cycling", "open source", "AI research"],
-    "funFacts": ["I once biked 500km in 5 days"]
+    "tone": "professional-friendly",
+    "traits": [
+      "proactive",
+      "detail-oriented",
+      "curious",
+      "problem-solving",
+      "growth-oriented"
+    ],
+    "interests": [
+      "AI automation",
+      "AI agents",
+      "workflow design",
+      "technology",
+      "learning new tools",
+      "building practical projects"
+    ],
+    "funFacts": [
+      "I enjoy turning repetitive processes into automated workflows.",
+      "I am constantly experimenting with new AI automation ideas."
+    ]
   },
+
   "resume": {
-    "url": "https://johndoe.dev/resume.pdf",
-    "lastUpdated": "2025-05-01",
+    "url": "",
+    "lastUpdated": "",
     "format": "pdf"
   },
+
   "agents": [
     {
       "id": "default",
-      "name": "Main Agent",
-      "persona": "Professional, approachable",
+      "name": "Portfolio Assistant",
+      "persona": "Professional, helpful, honest, and knowledgeable about AI automation, n8n, AI agents, API integrations, and workflow solutions.",
       "language": "en",
-      "tone": "friendly",
-      "tools": [{ "id": "getProjects", "name": "Get Projects" }],
+      "tone": "professional",
+      "tools": [],
       "presetQuestions": {
-        "Who are you?": "I'm John Doe, Full Stack Engineer.",
-        "What are your skills?": "I specialize in React, Node.js, and cloud systems."
+        "Who are you?": "I am the portfolio assistant for Matthew Alebiosu, an AI Automation & n8n Specialist who builds practical AI-powered workflows and automation solutions.",
+        "What can you build?": "Matthew builds AI-powered automations, AI agents, lead generation systems, coding assistants, customer support workflows, API integrations, data processing workflows, and notification systems using tools such as n8n, AI models, webhooks, APIs, and Google Sheets.",
+        "What projects have you built?": "Featured projects include an AI Coding Assistant, an AI Lead Generation Agent, and an AI Customer Support Assistant.",
+        "What tools do you use?": "Core tools include n8n, AI and LLM integrations, REST APIs, HTTP requests, webhooks, JSON, Google Sheets, Make, and GitHub.",
+        "What are you looking for?": "Matthew is looking for freelance and full-time opportunities to build useful automation solutions, collaborate with businesses and developers, gain real-world experience, and reduce repetitive manual work through intelligent automation."
       }
     }
   ],
+
   "tools": [],
+
   "privacy": {
     "exposeEmail": false,
     "publicProfile": true,
     "shareMetrics": false
   }
-    }
+}
