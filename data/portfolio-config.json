@@ -18,30 +18,28 @@
     "yearOfBirth": 2000,
     "pronouns": "he/him",
     "avatar": {
-      "src": "",
-      "fallback": "MA"
+      "src": "https://github.com/alebiosumatthew1.png",
+      "fallback": "https://github.com/alebiosumatthew1.png"
     },
     "timezone": "Africa/Lagos"
   },
 
   "socials": {
     "linkedin": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362",
-    "github": "https://github.com/alebiosumatthew1",
-    "twitter": "",
-    "website": ""
+    "github": "https://github.com/alebiosumatthew1"
   },
 
   "contacts": [
     {
-      "name": "alebiosumattew66@gmail.com",
+      "name": "Email",
       "url": "mailto:alebiosumattew66@gmail.com"
     },
     {
-      "name": "Alebiosu Matthew",
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/matthew-alebiosu-4251b5362"
     },
     {
-      "name": "Alebiosu Matthew",
+      "name": "GitHub",
       "url": "https://github.com/alebiosumatthew1"
     }
   ],
@@ -55,35 +53,15 @@
     }
   ],
 
-  "certifications": [],
-
   "summary": "AI Automation & n8n Specialist focused on designing practical AI-powered workflows, intelligent agents, API integrations, lead-generation systems, customer support automations, and business process solutions that reduce repetitive work and improve operational efficiency.",
-
-  "education": [
-    {
-      "id": "education-1",
-      "institution": "University of Lagos",
-      "degree": "computer science",
-      "field": "Machine Learning",
-      "start": "2015",
-      "end": "2019",
-      "grade": "CGPA 4.50",
-      "highlights": [
-        "Developing technical and problem-solving skills",
-        "Building practical AI automation projects alongside academic studies"
-      ],
-      "isCurrent": true
-    }
-  ],
 
   "experience": [
     {
       "id": "experience-1",
       "company": "Independent AI Automation Projects",
       "position": "AI Automation & n8n Specialist",
-      "type": "project-based",
+      "type": "freelance",
       "start": "2026-01-01",
-      "end": "",
       "description": "Building practical AI automation and workflow projects focused on AI agents, lead generation, customer support, coding assistance, API integrations, data processing, and business process automation.",
       "responsibilities": [
         "Designing and developing automated workflows",
@@ -186,7 +164,7 @@
         "REST API",
         "JSON"
       ],
-      "role": "AI Automation Developer",
+      "role": "creator",
       "achievements": [
         "Designed an automated workflow for processing coding requests",
         "Integrated an LLM for code analysis and response generation",
@@ -194,7 +172,6 @@
       ],
       "links": []
     },
-
     {
       "id": "project-2",
       "title": "AI Lead Generation Agent",
@@ -216,7 +193,7 @@
         "Google Sheets",
         "JSON"
       ],
-      "role": "AI Automation Developer",
+      "role": "creator",
       "achievements": [
         "Automated lead qualification and data processing",
         "Designed AI logic for evaluating prospects",
@@ -224,7 +201,6 @@
       ],
       "links": []
     },
-
     {
       "id": "project-3",
       "title": "AI Customer Support Assistant",
@@ -246,7 +222,7 @@
         "REST API",
         "JSON"
       ],
-      "role": "AI Automation Developer",
+      "role": "creator",
       "achievements": [
         "Automated the initial handling of customer inquiries",
         "Used AI to classify and respond to customer requests",
@@ -258,7 +234,7 @@
 
   "jobInterest": {
     "seeking": true,
-    "type": "freelance-and-full-time",
+    "type": "contract",
     "preferredLocations": [
       "Lagos",
       "Nigeria",
@@ -280,7 +256,7 @@
   },
 
   "personality": {
-    "tone": "professional-friendly",
+    "tone": "friendly",
     "traits": [
       "proactive",
       "detail-oriented",
@@ -302,31 +278,18 @@
     ]
   },
 
-  "resume": {
-    "url": "",
-    "lastUpdated": "",
-    "format": "pdf"
-  },
-
-  "agents": [
-    {
-      "id": "default",
-      "name": "Portfolio Assistant",
-      "persona": "Professional, helpful, honest, and knowledgeable about AI automation, n8n, AI agents, API integrations, and workflow solutions.",
-      "language": "en",
-      "tone": "professional",
-      "tools": [],
-      "presetQuestions": {
-        "Who are you?": "I am the portfolio assistant for Matthew Alebiosu, an AI Automation & n8n Specialist who builds practical AI-powered workflows and automation solutions.",
-        "What can you build?": "Matthew builds AI-powered automations, AI agents, lead generation systems, coding assistants, customer support workflows, API integrations, data processing workflows, and notification systems using tools such as n8n, AI models, webhooks, APIs, and Google Sheets.",
-        "What projects have you built?": "Featured projects include an AI Coding Assistant, an AI Lead Generation Agent, and an AI Customer Support Assistant.",
-        "What tools do you use?": "Core tools include n8n, AI and LLM integrations, REST APIs, HTTP requests, webhooks, JSON, Google Sheets, Make, and GitHub.",
+  "privacy": {
+    "exposeEmail": false,
+    "publicProfile": true,
+    "shareMetrics": false
+  }
+}and GitHub.",
         "What are you looking for?": "Matthew is looking for freelance and full-time opportunities to build useful automation solutions, collaborate with businesses and developers, gain real-world experience, and reduce repetitive manual work through intelligent automation."
       }
     }
   ],
 
-  "tools": [],
+  
 
   "privacy": {
     "exposeEmail": false,
