@@ -228,12 +228,14 @@
         "JSON"
       ],
       "role": "creator",
+      "problem": "Small teams repeatedly answer the same customer questions" ,
       "achievements": [
         "Automated the initial handling of customer inquiries",
         "Used an LLM layer to classify and respond to customer requests",
         "Designed the workflow to reduce repetitive manual support tasks",
         "Return the answer through the chosen support channel for review or delivery"
       ],
+      "Result" : "Faster first responses and reduced repetitive support work" ,
       "links": []
     }
   ],
