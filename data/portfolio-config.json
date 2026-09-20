@@ -209,10 +209,8 @@
     {
       "id": "project-3",
       "title": "AI Customer Support Assistant",
-      "summary": "An AI-powered customer support workflow that understands customer questions and generates helpful responses.",
+      "summary": "An AI-powered customer support workflow that understands customer questions and generates helpful responses. problem :Small teams repeatedly answer the same customer questions .Result :Faster first responses and reduced repetitive support work",
       "description": "Built an automated customer support workflow that receives customer questions, uses AI to understand the request, generates an appropriate response, and organizes the interaction for follow-up.",
-      "problem": "Small teams repeatedly answer the same customer questions" ,
-      "Result" : "Faster first responses and reduced repetitive support work" ,
       "status": "completed",
       "featured": true,
       "categories": [
